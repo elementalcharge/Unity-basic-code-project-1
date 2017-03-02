@@ -1,0 +1,5 @@
+micro aventura en 3D(primer projecto del curso)
+wasd-movimiento
+q- rotar
+e- rotar
+click izquierdo-elevarse hacia arriba(fue abandonada la mecanica de salto antes de completarse para continuar con el segundo projecto del curso de diplomatura en unity)
